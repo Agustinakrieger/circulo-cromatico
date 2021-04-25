@@ -76,7 +76,7 @@ void draw(){
   
   noStroke();
   fill(255,148,0);
-  ellipse(500,10,100,100);
+  ellipse(510,130,100,100);
   ellipseMode(CENTER);
   
 }
